@@ -1,0 +1,3 @@
+[submodule "cryptodisplay"]
+	path = cryptodisplay
+	url = https://github.com/chinmaydonkar/cryptodisplay
